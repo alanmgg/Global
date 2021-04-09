@@ -7,4 +7,4 @@ Global is a modern and sleek website template crafted for professionals in the c
 ![Imagen global vista03](https://raw.githubusercontent.com/alanmgg/global/master/assets/img/Preview03.jpg)
 ![Imagen global vista04](https://raw.githubusercontent.com/alanmgg/global/master/assets/img/Preview04.jpg)
 
-[Live Preview](https://alanmgg.github.io/global/)
+# [Live Preview](https://alanmgg.github.io/global/)
